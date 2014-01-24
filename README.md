@@ -2,7 +2,7 @@ EPSI Courses - adrael.github.io/epsicourses
 ===========================================
 
 Disposez des cours de l'EPSI Bordeaux en ligne, <strong>gratuitement</strong>, <em>sans soucis</em>.<br/>
-####Ca se passe [ici](http://adrael.github.io) !
+####Ca se passe [ici](http://adrael.github.io/epsicourses) !
 
 ## Les cours
 
